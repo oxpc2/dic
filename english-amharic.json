@@ -1,23 +1,501 @@
-
 [
     {
         "id": 1,
+        "word": "A",
+        "meaning": "የእንግሊዘኛ የመጀመሪያ ፊደል"
+    },
+    {
+        "id": 2,
+        "word": "a",
+        "meaning": "ሰወች"
+    },
+    {
+        "id": 3,
+        "word": "aardvark",
+        "meaning": "አዋልድጌሳ"
+    },
+    {
+        "id": 4,
+        "word": "aardvarks",
+        "meaning": "aardvarks"
+    },
+    {
+        "id": 5,
+        "word": "aardwolf",
+        "meaning": "ወቸገል"
+    },
+    {
+        "id": 6,
+        "word": "abaca",
+        "meaning": "የቃጫ ተክል"
+    },
+    {
+        "id": 7,
+        "word": "abacas",
+        "meaning": NaN
+    },
+    {
+        "id": 8,
+        "word": "aback",
+        "meaning": "ወደኋላ"
+    },
+    {
+        "id": 9,
+        "word": "abactinal",
+        "meaning": "የአካል ብቃት እንቅስቃሴ"
+    },
+    {
+        "id": 10,
+        "word": "abacus",
+        "meaning": "አባክ"
+    },
+    {
+        "id": 11,
         "word": "abacus",
         "meaning": "አባከስ"
     },
     {
-        "id": 2,
+        "id": 12,
         "word": "abacuses",
         "meaning": "አባካዎች"
     },
     {
-        "id": 3,
+        "id": 13,
         "word": "abaft",
         "meaning": "አፋፍ"
     },
     {
-        "id": 4,
+        "id": 14,
         "word": "abalone",
         "meaning": "ዛጎል ለበስ የአሳ ዝርያ"
-    }
-]
+    },
+    {
+        "id": 15,
+        "word": "abalones",
+        "meaning": "አባሎኖች"
+    },
+    {
+        "id": 16,
+        "word": "abampere",
+        "meaning": "አባምፔር"
+    },
+    {
+        "id": 17,
+        "word": "abamperes",
+        "meaning": "አባምፐርስስ"
+    },
+    {
+        "id": 18,
+        "word": "abandon",
+        "meaning": "መተው፣ማቋረጥ፣ማቆም"
+    },
+    {
+        "id": 19,
+        "word": "abandoned",
+        "meaning": "የተተወ፣የተጣለ"
+    },
+    {
+        "id": 20,
+        "word": "abandonedly",
+        "meaning": "የተተወ"
+    },
+    {
+        "id": 21,
+        "word": "abandonee",
+        "meaning": "መተው"
+    },
+    {
+        "id": 22,
+        "word": "abandonees",
+        "meaning": "ይተዋል"
+    },
+    {
+        "id": 23,
+        "word": "abandonment",
+        "meaning": "መተው"
+    },
+    {
+        "id": 24,
+        "word": "abandonments",
+        "meaning": "መተው"
+    },
+    {
+        "id": 25,
+        "word": "abandons",
+        "meaning": "ይተዋል"
+    },
+    {
+        "id": 26,
+        "word": "abas",
+        "meaning": "አባስ"
+    },
+    {
+        "id": 27,
+        "word": "abase",
+        "meaning": "ማዋረድ"
+    },
+    {
+        "id": 28,
+        "word": "abased",
+        "meaning": "የተዋረደ"
+    },
+    {
+        "id": 29,
+        "word": "abasement",
+        "meaning": "ዉርደት"
+    },
+    {
+        "id": 30,
+        "word": "abasements",
+        "meaning": "አዋራጆች"
+    },
+    {
+        "id": 31,
+        "word": "abases",
+        "meaning": "አዋራጆች"
+    },
+    {
+        "id": 32,
+        "word": "abash",
+        "meaning": "ማሳፈር"
+    },
+    {
+        "id": 33,
+        "word": "abashed",
+        "meaning": "ያፈረ"
+    },
+    {
+        "id": 34,
+        "word": "abashedly",
+        "meaning": "በውርደት"
+    },
+    {
+        "id": 35,
+        "word": "abashes",
+        "meaning": "ገዳዎች"
+    },
+    {
+        "id": 36,
+        "word": "abashment",
+        "meaning": "abashment"
+    },
+    {
+        "id": 37,
+        "word": "abashments",
+        "meaning": "አበሾች"
+    },
+    {
+        "id": 38,
+        "word": "abasing",
+        "meaning": "አዋራጅ"
+    },
+    {
+        "id": 39,
+        "word": "abatable",
+        "meaning": "ሊቀየር የሚችል"
+    },
+    {
+        "id": 40,
+        "word": "abate",
+        "meaning": "ማውረድ፣መቀነስ"
+    },
+    {
+        "id": 41,
+        "word": "abated",
+        "meaning": "ተቋርጧል"
+    },
+    {
+        "id": 42,
+        "word": "abatement",
+        "meaning": "መቀነስ"
+    },
+    {
+        "id": 43,
+        "word": "abatements",
+        "meaning": "ውርጃዎች"
+    },
+    {
+        "id": 44,
+        "word": "abates",
+        "meaning": "ቀንሷል"
+    },
+    {
+        "id": 45,
+        "word": "abating",
+        "meaning": "መቀነስ"
+    },
+    {
+        "id": 46,
+        "word": "abatis",
+        "meaning": "አባቶች"
+    },
+    {
+        "id": 47,
+        "word": "abator",
+        "meaning": "አባሪ"
+    },
+    {
+        "id": 48,
+        "word": "abators",
+        "meaning": "አባሪዎች"
+    },
+    {
+        "id": 49,
+        "word": "abattis",
+        "meaning": "አባቶች"
+    },
+    {
+        "id": 50,
+        "word": "abattises",
+        "meaning": "አባቶች"
+    },
+    {
+        "id": 51,
+        "word": "abattoir",
+        "meaning": "ቄራ"
+    },
+    {
+        "id": 52,
+        "word": "abattoirs",
+        "meaning": "የእንስሳት መኖ ቤቶች"
+    },
+    {
+        "id": 53,
+        "word": "abaxial",
+        "meaning": "አባክስያል"
+    },
+    {
+        "id": 54,
+        "word": "abba(father)",
+        "meaning": "አባ (የሀይማኖት አባት መጠሪያ ማዕረግ"
+    },
+    {
+        "id": 55,
+        "word": "abbacies",
+        "meaning": "ነፍሳት"
+    },
+    {
+        "id": 56,
+        "word": "abbacy",
+        "meaning": "abbacy"
+    },
+    {
+        "id": 57,
+        "word": "abbatial",
+        "meaning": "አባታዊ"
+    },
+    {
+        "id": 58,
+        "word": "abbess",
+        "meaning": "እመምኔት"
+    },
+    {
+        "id": 59,
+        "word": "abbesses",
+        "meaning": "አባቶች"
+    },
+    {
+        "id": 60,
+        "word": "abbey",
+        "meaning": "ገዳም፣ደብር"
+    },
+    {
+        "id": 61,
+        "word": "abbot",
+        "meaning": "አበምኔት"
+    },
+    {
+        "id": 62,
+        "word": "abbotship",
+        "meaning": "አባታዊነት"
+    },
+    {
+        "id": 63,
+        "word": "abbotships",
+        "meaning": "አባቶች"
+    },
+    {
+        "id": 64,
+        "word": "abbreviate",
+        "meaning": "ማሳጠር"
+    },
+    {
+        "id": 65,
+        "word": "abbreviated",
+        "meaning": "በአሕጽሮተ ቃል"
+    },
+    {
+        "id": 66,
+        "word": "abbreviates",
+        "meaning": "አህጽሮተ ቃላት"
+    },
+    {
+        "id": 67,
+        "word": "abbreviating",
+        "meaning": "አህጽሮተ ቃል"
+    },
+    {
+        "id": 68,
+        "word": "abbreviation",
+        "meaning": "ምህፀረ ቃል"
+    },
+    {
+        "id": 69,
+        "word": "abbs",
+        "meaning": "አባ ገዳዎች"
+    },
+    {
+        "id": 70,
+        "word": "abdicable",
+        "meaning": "ሊወገድ የሚችል"
+    },
+    {
+        "id": 71,
+        "word": "abdicant",
+        "meaning": "ሆድ አልባ"
+    },
+    {
+        "id": 72,
+        "word": "abdicate",
+        "meaning": "መልቀቅ"
+    },
+    {
+        "id": 73,
+        "word": "abdicated",
+        "meaning": "ተወግዷል"
+    },
+    {
+        "id": 74,
+        "word": "abdicates",
+        "meaning": "ከስልጣኖች"
+    },
+    {
+        "id": 75,
+        "word": "abdicating",
+        "meaning": "በማስወገድ ላይ"
+    },
+    {
+        "id": 76,
+        "word": "abdication",
+        "meaning": "ማስቀረት"
+    },
+    {
+        "id": 77,
+        "word": "abdications",
+        "meaning": "ውርጃዎች"
+    },
+    {
+        "id": 78,
+        "word": "abdicator",
+        "meaning": "አስነዋሪ"
+    },
+    {
+        "id": 79,
+        "word": "abdicators",
+        "meaning": "አስካሪዎች"
+    },
+    {
+        "id": 80,
+        "word": "abdomen",
+        "meaning": "ሆድ"
+    },
+    {
+        "id": 81,
+        "word": "abdomens",
+        "meaning": "የሆድ ዕቃዎች"
+    },
+    {
+        "id": 82,
+        "word": "abdominal",
+        "meaning": "የሆድ"
+    },
+    {
+        "id": 83,
+        "word": "abdominous",
+        "meaning": "የሆድ ሆድ"
+    },
+    {
+        "id": 84,
+        "word": "abduced",
+        "meaning": "ታፍኗል"
+    },
+    {
+        "id": 85,
+        "word": "abducent",
+        "meaning": "ቀልጣፋ"
+    },
+    {
+        "id": 86,
+        "word": "abduces",
+        "meaning": "ጠለፋዎች"
+    },
+    {
+        "id": 87,
+        "word": "abducing",
+        "meaning": "በማቀላቀል ላይ"
+    },
+    {
+        "id": 88,
+        "word": "abduct",
+        "meaning": "ጠለፋ"
+    },
+    {
+        "id": 89,
+        "word": "abduct",
+        "meaning": "መጥለፍ"
+    },
+    {
+        "id": 90,
+        "word": "abducted",
+        "meaning": "ታፍነው ተወስደዋል"
+    },
+    {
+        "id": 91,
+        "word": "abducting",
+        "meaning": "ጠለፋ"
+    },
+    {
+        "id": 92,
+        "word": "abduction",
+        "meaning": "ጠለፋ"
+    },
+    {
+        "id": 93,
+        "word": "abductions",
+        "meaning": "ጠለፋዎች"
+    },
+    {
+        "id": 94,
+        "word": "abductor",
+        "meaning": "ጠላፊ"
+    },
+    {
+        "id": 95,
+        "word": "abductors",
+        "meaning": "ጠላፊዎች"
+    },
+    {
+        "id": 96,
+        "word": "abducts",
+        "meaning": "ጠለፋዎች"
+    },
+    {
+        "id": 97,
+        "word": "abeam",
+        "meaning": NaN
+    },
+    {
+        "id": 98,
+        "word": "abecedarian",
+        "meaning": "የቤት ውስጥ ሰራተኛ"
+    },
+    {
+        "id": 99,
+        "word": "abed",
+        "meaning": "አልጋ"
+    },
+    {
+        "id": 100,
+        "word": "abele",
+        "meaning": "abele"
+    }]
